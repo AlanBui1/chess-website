@@ -33,7 +33,7 @@ Alan Bui is a competitive chess player, chess author, and chess coach. Having co
 ## Eric Li
 
 <br>
-<!-- <img style="float: left; padding-right: 50px" src="https://alanbui1.github.io/chess-website/assets/images/alan.JPEG"  width="30%" height="30%" > -->
+<img style="float: left; padding-right: 50px" src="https://alanbui1.github.io/chess-website/assets/images/eric.png"  width="30%" height="30%" >
 
 Eric Li is a competitive chess player and coach and has been playing chess for 15 years. He has represented Team Canada 
 multiple times on the world stage and is a master-level player. His best tournaments include finishing third in the 2019

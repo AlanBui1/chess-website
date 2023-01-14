@@ -20,6 +20,14 @@ excerpt: >
 
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
+  - image_path: /assets/images/typical-tactical-tricks-logo.png
+    alt: "Typical Tactical Tricks: 500 Ways To Win!"
+    title: "Typical Tactical Tricks: 500 Ways To Win!"
+    excerpt: "Typical Tactical Tricks: 500 Ways To Win! is a great learning resource created by teachers at the Windsor Chess Enrichment Program!"
+    url: "https://www.chessable.com/typical-tactical-tricks-500-ways-to-win/course/77784/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
   - image_path: /assets/images/WindsorCEPWinter.png
     alt: "Windsor Chess Enrichment Program Winter Session"
     title: "Windsor Chess Enrichment Program Winter Session"
@@ -34,16 +42,7 @@ feature_row:
     excerpt: "Past chess tournament at Vincent Massey Secondary School! View results now!"
     url: "/wintercc-post/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
-  
-  # - image_path: /assets/images/mm-free-feature.png
-  #   alt: "100% free"
-  #   title: "100% free"
-  #   excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-  #   url: "/docs/license/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Learn more"     
-    
+    btn_label: "Learn more"    
 
 ---
 

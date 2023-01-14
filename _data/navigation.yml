@@ -1,4 +1,6 @@
 main:
+  - title: "Homework"
+    url: /homework/
   - title: "Posts"
     url: /posts/
   # - title: "Categories"

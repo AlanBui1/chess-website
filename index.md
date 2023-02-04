@@ -24,8 +24,8 @@ feature_row:
   - image_path: /assets/images/KCIChessTournament.png
     alt: "Upcoming Chess Tournament"
     title: "KCI Chess Tournament"
-    excerpt: "Upcoming chess tournament at Kennedy Collegiate Institute"
-    url: "/kcichess/"
+    excerpt: "KCI Chess Tournament is over! See results now!"
+    url: "/kcichess-post/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 

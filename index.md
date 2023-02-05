@@ -13,9 +13,11 @@ header:
     - label: Sign Up
       url: "https://forms.gle/ZgywqjMu8QNQc8KJ7"
   
-excerpt: >
-  <br /><br /><br /><br /><br /><br/>
-  A place to learn, play, and have fun! 
+excerpt: 
+
+
+  <br><br><br>
+  The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
   
 
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>

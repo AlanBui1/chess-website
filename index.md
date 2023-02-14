@@ -23,11 +23,11 @@ excerpt:
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
 
-  - image_path: /assets/images/KCIChessTournament.png
+  - image_path: /assets/images/FebChessChallenge.png
     alt: "Upcoming Chess Tournament"
-    title: "KCI Chess Tournament"
-    excerpt: "KCI Chess Tournament is over! See results now!"
-    url: "/kcichess-post/"
+    title: "February Chess Challenge"
+    excerpt: "The February Chess Challenge is coming up soon! This tournament is great practice before the Windsor Chess Challenge!"
+    url: "/febchess/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 

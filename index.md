@@ -24,10 +24,10 @@ excerpt:
 feature_row:
 
   - image_path: /assets/images/FebChessChallenge.png
-    alt: "Upcoming Chess Tournament"
+    alt: "Chess Tournament"
     title: "February Chess Challenge"
-    excerpt: "The February Chess Challenge is coming up soon! This tournament is great practice before the Windsor Chess Challenge!"
-    url: "/febchess/"
+    excerpt: "Massey's February Chess Challenge is over! See results now!"
+    url: "/febchesspost/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 

@@ -6,7 +6,7 @@ tags:
 permalink: /febchesspost/
 ---
 
-The February Chess Challenge was held on Friday, February 24th at Vincent Massey Secondary School. In attendance, was about 30 participants! Students participated in a 5-round tournament and some played additional tiebreak games. The final standings are as follows:
+The February Chess Challenge was held on Friday, February 24th at Vincent Massey Secondary School. Students participated in a 5-round tournament and some played additional tiebreak games. The final standings are as follows:
 
 ## Grades JK-5:
 

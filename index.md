@@ -22,6 +22,13 @@ excerpt:
 
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
+  - image_path: /assets/images/WindsorCEPMarch.png
+    alt: "Windsor Chess Enrichment Program March Session"
+    title: "Windsor Chess Enrichment Program March Session"
+    excerpt: "The Windsor Chess Enrichment Program March Session is starting this week! Learn more by clicking the button below!"
+    url: "/marchcep/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
   - image_path: /assets/images/FebChessChallenge.png
     alt: "Chess Tournament"
@@ -30,14 +37,6 @@ feature_row:
     url: "/febchesspost/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
-
-  - image_path: /assets/images/WindsorCEPWinter.png
-    alt: "Windsor Chess Enrichment Program Winter Session"
-    title: "Windsor Chess Enrichment Program Winter Session"
-    excerpt: "The Windsor Chess Enrichment Program Winter Session is starting after the New Year! Learn more by clicking the button below!"
-    url: "/wintercep/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 
   - image_path: /assets/images/typical-tactical-tricks-logo.png
     alt: "Typical Tactical Tricks: 500 Ways To Win!"

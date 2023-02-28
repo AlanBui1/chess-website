@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/homeBackground.png
   actions:
     - label: "About the Program"
-      url: "/about"
+      url: "/marchcep"
     - label: Meet the Teachers
       url: "/about#adam-gaisinsky"
     - label: Sign Up

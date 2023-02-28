@@ -1,8 +1,9 @@
 ---
-title: "Winter Chess Challenge Post-Event Post"
+title: "Winter Chess Challenge Post"
 # last_modified_at: 2016-03-09T16:20:02-05:00
 tags:
   - Tournament
+permalink: /winterccpost/
 ---
 
 The Winter Chess Challenge was held on Friday, December 16th at Vincent Massey Secondary School. In attendance, we had over 30 participants from over 10 schools! Students participated in a 4-round tournament and some played additional tiebreak games. The final standings are as follows:

@@ -1,8 +1,9 @@
 ---
-title: "KCI Chess Tournament Post-Event Post"
+title: "KCI Chess Tournament Post"
 # last_modified_at: 2016-03-09T16:20:02-05:00
 tags:
   - Tournament
+permalink: /kcichesspost/
 ---
 
 The Kennedy Chess Tournament was held on Friday, February 3rd at Honorable W.C. Kennedy Collegiate. In attendance, was 30 participants from over 15 schools! Students participated in a 5-round tournament and some played additional tiebreak games. The final standings are as follows:

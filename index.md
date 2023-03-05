@@ -38,11 +38,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 
-  - image_path: /assets/images/typical-tactical-tricks-logo.png
-    alt: "Typical Tactical Tricks: 500 Ways To Win!"
-    title: "Typical Tactical Tricks: 500 Ways To Win!"
-    excerpt: "Typical Tactical Tricks: 500 Ways To Win! is a great learning resource created by teachers at the Windsor Chess Enrichment Program!"
-    url: "https://www.chessable.com/typical-tactical-tricks-500-ways-to-win/course/77784/"
+  - image_path: /assets/images/KCIChessTournament3.png
+    alt: "KCI Chess Tournament"
+    title: "KCI Chess Tournament #3 is this month!"
+    excerpt: "Join this tournament for all grades and ages! Pizza is included in the entry fee!"
+    url: "/kcichess/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 

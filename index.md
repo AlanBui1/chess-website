@@ -30,11 +30,11 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/FebChessChallenge.png
+  - image_path: /assets/images/wcc2.png
     alt: "Chess Tournament"
-    title: "February Chess Challenge"
-    excerpt: "Massey's February Chess Challenge is over! See results now!"
-    url: "/febchesspost/"
+    title: "Impressive Results at Windsor Chess Challenge"
+    excerpt: "Several students won at the Windsor Chess Challenge! See our medallists by clicking the link below!"
+    url: "/windsorcc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"   
 

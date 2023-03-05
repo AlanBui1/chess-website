@@ -36,13 +36,37 @@ feature_row:
     excerpt: "Several students won at the Windsor Chess Challenge! See our medallists by clicking the link below!"
     url: "/windsorcc/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"   
-
+    btn_label: "Learn more"  
+    
   - image_path: /assets/images/KCIChessTournament3.png
     alt: "KCI Chess Tournament"
     title: "KCI Chess Tournament #3 is this month!"
-    excerpt: "Join this tournament for all grades and ages! Pizza is included in the entry fee!"
+    excerpt: "This tournament is for all grades and ages. Pizza is included in the entry fee!"
     url: "/kcichess/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/images/FebChessChallenge.png
+    alt: "Chess Tournament Flyer"
+    title: "Massey's February Chess Challenge"
+    excerpt: "Massey's February Tournament is over! View results now!"
+    url: "/febchesspost/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/images/typical-tactical-tricks-logo.png
+    alt: "Typical Tactical Tricks: 500 Ways To Win!"
+    title: "Typical Tactical Tricks: 500 Ways To Win!"
+    excerpt: "Typical Tactical Tricks: 500 Ways To Win! is a great learning resource created by teachers at the Windsor Chess Enrichment Program!"
+    url: "https://www.chessable.com/typical-tactical-tricks-500-ways-to-win/course/77784/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
+  - image_path: /assets/images/ethan.png
+    alt: "Guide to Moving Chess Pieces"
+    title: "Guide to Moving Chess Pieces"
+    excerpt: "New to chess? Read our Guide to Moving Chess Pieces!"
+    url: "/Guide.pdf/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 

@@ -39,4 +39,4 @@ You can register by completing the form at this [link](https://forms.gle/3ND7GmL
 
 <h2>Who is teaching?</h2>
 
-Lessons are taught by Candidate Master Adam Gaisinsky, Eric Li, and Alan Bui. More details can be found here: <a href = "/website/about/#adam-gaisinsky">About the Teachers</a>
+Lessons are taught by Candidate Master Adam Gaisinsky, Eric Li, and Alan Bui. More details can be found here: <a href = "/about/#adam-gaisinsky">About the Teachers</a>

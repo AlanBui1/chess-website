@@ -66,7 +66,7 @@ feature_row:
     alt: "Guide to Moving Chess Pieces"
     title: "Guide to Moving Chess Pieces"
     excerpt: "New to chess? Read our Guide to Moving Chess Pieces!"
-    url: "/Guide.pdf/"
+    url: "/Guide.pdf"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 

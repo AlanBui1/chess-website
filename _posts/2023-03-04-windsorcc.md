@@ -13,6 +13,7 @@ The year's students at the Windsor Chess Enrichment Program participated at the 
 | Name      | Grade    |
 | :---      |    :----: |
 | Ethan Nguyen | 1 |
+| Linden Qiu | 2 |
 | Tim Wei | 4 |
 | Eaton Hu | 4 |
 | Gus Guan | 5 |
@@ -24,10 +25,8 @@ The year's students at the Windsor Chess Enrichment Program participated at the 
 
 | Name      | Grade    |
 | :---      |    :----: |
-| Linden Qiu | 2 |
 | Cristiano Di Salvo | 5 |
 | Aiden Nguyen | 6 |
-| Luke Yacoub | 7 |
 | Caleb Gilman | 7 |
 
 
@@ -35,7 +34,10 @@ The year's students at the Windsor Chess Enrichment Program participated at the 
 
 | Name      | Grade    |
 | :---      |    :----: |
+| Julian Yacoub | 3 |
+| Andrew St. Louis | 3 |
 | Lily  Qiu | 4 |
 | Alex Habibov | 4 |
+| Luke Yacoub | 7 |
 
 Good luck to everyone at the playoffs!

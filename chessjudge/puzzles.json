@@ -1,11 +1,17 @@
 {
     "puzzle1" : {
-        "moves" : 3,
+        "numMoves" : 3,
+        "startFEN": "3r2k1/3r1ppp/8/8/3R4/6P1/7P/3R2K1 b - - 0 1",
         "FENS" : [
             "3r2k1/3r1ppp/8/8/3R4/6P1/7P/3R2K1 b - - 0 1",
             "3r2k1/5ppp/8/8/3r4/6P1/7P/3R2K1 w - - 0 2",
             "3r2k1/5ppp/8/8/3R4/6P1/7P/6K1 b - - 0 2",
             "6k1/5ppp/8/8/3r4/6P1/7P/6K1 w - - 0 3"
+        ],
+        "moves": [
+            "Rxd4",
+            "Rxd4",
+            "Rxd4"
         ]
     }
 }

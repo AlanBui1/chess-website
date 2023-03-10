@@ -5,7 +5,7 @@ import puzzles from '/chessjudge/puzzles.json' assert { type: 'json' }
 
 let curPuzzle = "puzzle1"
 let curMove = 0
-let numMoves = puzzles[curPuzzle]["moves"]
+let numMoves = puzzles[curPuzzle]["numMoves"]
 
 function onDragStart (source, piece, position, orientation) {
   // do not pick up pieces if the game is over
@@ -33,12 +33,13 @@ function onDrop (source, target) {
     console.log("SAD")
     board = Chessboard('myBoard', config)
     game = new Chess(puzzles[curPuzzle]["FENS"][0])
+    curMove = 0
   }
 
   else{
     curMove += 2
     if (curMove < numMoves){
-      game.move('Rxd4')
+      game.move(puzzles[curPuzzle]["moves"][curMove-1])
       console.log("YAY")
     }
     else{
@@ -96,11 +97,11 @@ var config = {
   onDragStart: onDragStart,
   onDrop: onDrop,
   onSnapEnd: onSnapEnd,
-  position: puzzles[curPuzzle]["FENS"][0]
+  position: puzzles[curPuzzle]["startFEN"]
 }
 
 var board = Chessboard('myBoard', config)
-var game = new Chess(puzzles[curPuzzle]["FENS"][0])
+var game = new Chess(puzzles[curPuzzle]["startFEN"])
 var $status = $('#status')
 var $fen = $('#fen')
 var $pgn = $('#pgn')

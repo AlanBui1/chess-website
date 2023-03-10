@@ -15,6 +15,7 @@ The year's students at the Windsor Chess Enrichment Program participated at the 
 | Ethan Nguyen | 1 |
 | Linden Qiu | 2 |
 | Tim Wei | 4 |
+| David Hao | 4 |
 | Eaton Hu | 4 |
 | Gus Guan | 5 |
 | Daniel Lee | 5 |

@@ -21,7 +21,7 @@ The program runs at First Lutheran Christian Academy: 3850 Locke St, Windsor, ON
 
 <h2>When is it?</h2>
 
-The program runs from 2:00 - 3:30 PM Eastern Time on Saturdays. The program starts on April 8th and goes until June 24th. A new session will start after that!
+The program runs from 2:00 - 3:30 PM Eastern Time on Saturdays. The program starts on April 8th and goes until June 17th.
 
 <h2>Schedule</h2>
 

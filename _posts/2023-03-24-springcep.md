@@ -8,7 +8,7 @@ permalink: /springcep/
 
 The Windsor Chess Enrichment Program Spring Session is starting soon! 
 
-<!-- <img src="/assets/images/WindsorCEPSpring.png" alt="Program Flyer" height = "60%" width = "60%">  -->
+<img src="/assets/images/WindsorCEPSpring.png" alt="Program Flyer" height = "60%" width = "60%"> 
 
 <h2>What is it?</h2>
 

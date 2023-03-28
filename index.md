@@ -22,11 +22,11 @@ excerpt:
 
 #   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
-  - image_path: /assets/images/WindsorCEPMarch.png
-    alt: "Windsor Chess Enrichment Program March Session"
-    title: "Windsor Chess Enrichment Program March Session"
-    excerpt: "The Windsor Chess Enrichment Program March Session is starting this week! Learn more by clicking the button below!"
-    url: "/marchcep/"
+  - image_path: /assets/images/WindsorCEPSpring.png
+    alt: "Windsor Chess Enrichment Program Spring Session"
+    title: "Windsor Chess Enrichment Program Spring Session"
+    excerpt: "The Windsor Chess Enrichment Program Spring Session is starting April 8th! Learn more by clicking the button below!"
+    url: "/springcep/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 

@@ -40,9 +40,9 @@ feature_row:
     
   - image_path: /assets/images/KCIChessTournament3.png
     alt: "KCI Chess Tournament"
-    title: "KCI Chess Tournament #3 is this month!"
-    excerpt: "This tournament is for all grades and ages. Pizza is included in the entry fee!"
-    url: "/kcichess/"
+    title: "KCI Chess Tournament #3"
+    excerpt: "KCI Chess Tournament #3 is over! View results now!"
+    url: "/kcichess3/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 

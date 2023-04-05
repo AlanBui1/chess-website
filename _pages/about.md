@@ -5,12 +5,12 @@ title: "About Us"
 
 ## About Us
 
-<img style="float: right; padding-left: 5%" src="https://alanbui1.github.io/chess-website/assets/images/teamPhoto.png"  width="60%" height="60%" >
+<img style="float: right; padding-left: 5%" src="/assets/images/teamPhoto.png"  width="60%" height="60%" >
 
 Windsor is well renowned in the chess world for producing many talented and high-level players. There is a rich culture of chess in the city and a large community built around competitive play. At the center of the community lies the Windsor Chess Enrichment Program, a program designed to provide quality, affordable chess classes for local youth. Students meet weekly in an engaging setting to develop their chess skills in a fun, effective way. Students learn in small groups and lessons are personalized to each group. The program is taught by CM Adam Gaisinsky, CM Eric Li, and Alan Bui with the Step Method books as the core. It is open to all players of all skill levels but mainly targeted toward beginner and intermediate youth players. Contact us at windsorchessep@gmail.com for more information!
 
-<a href = "/wintercep/" class="btn btn--light-outline btn--large">More Info</a>
-<a href = "https://docs.google.com/forms/d/1jHFzoAJA7l3S7YptS1TeFLmq9IKzNxYYoxISb2-VP_4" class="btn btn--light-outline btn--large">Sign Up</a>
+<a href = "/springcep/" class="btn btn--light-outline btn--large">More Info</a>
+<a href = "https://forms.gle/fQir8Saqjecnewrb6" class="btn btn--light-outline btn--large">Sign Up</a>
 
 <br>
 ## Adam Gaisinsky
@@ -40,3 +40,11 @@ multiple times on the world stage and is a master-level player. His best tournam
 Pan-American Youth Chess Championship U18 and fourth in the 2017 Canadian Youth Chess Championship U16 Open. He earned the title of
 FIDE Candidate Master in 2022 and has been teaching chess for over 5 years. Eric teaches the beginner class here at the program 
 and hopes to excite and improve the next generation of Windsor kids about chess! 
+
+<br>
+<br>
+<br>
+<br>
+## Contact Us
+
+We can be reached by email at: <a href = "mailto: windsorchessep@gmail.com">windsorchessep@gmail.com</a>

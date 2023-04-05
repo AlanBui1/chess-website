@@ -18,8 +18,7 @@ favicon: assets/favicons/favicon.ico
 email: windsorchessep@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Chess program based in Windsor, Ontario where elementary school students learn, play, and have fun!
-twitter_username: username
-github_username: username
+github_username: AlanBui1
 minimal_mistakes_skin: dark
 search: true
 
@@ -75,10 +74,11 @@ plugins:
 #       url: "https://instagram.com/"
 
 footer:
-  # links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+  links:
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto: windsorchessep@gmail.com"
+    - label: "windsorchessep@gmail.com"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/"

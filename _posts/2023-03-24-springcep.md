@@ -21,13 +21,21 @@ The program runs at First Lutheran Christian Academy: 3850 Locke St, Windsor, ON
 
 <h2>When is it?</h2>
 
-The program runs from 2:00 - 3:30 PM Eastern Time on Saturdays. The program starts on April 8th and goes until June 17th.
+The program runs from 2:00 - 3:30 PM and 4:00 - 5:30 PM Eastern Time on Saturdays. The program starts on April 8th and goes until June 17th.
 
 <h2>Schedule</h2>
+
+<h3>2 PM Session:</h3>
 
 <p>2:00 - 2:45 | All classes start </p>
 
 <p>2:45 - 3:30 | Students play training games</p>
+
+<h3>4 PM Session:</h3>
+
+<p>4:00 - 4:45 | Beginner and Intermediate classes start, Advanced 1 and Advanced 2 play training games</p>
+
+<p>4:45 - 5:30 | Advanced 1 and Advanced 2 classes start, Beginner and Intermediate play training games</p>
 
 <h2>What will it cost me?</h2>
 
@@ -35,7 +43,7 @@ The program fee is $150 for the entire session. If you would like to try the pro
 
 <h2>How do I register?</h2>
 
-You can register by completing the form at this [link](https://forms.gle/WMYt44ZjATNJmEUt8)
+You can register by completing the form at this [link](https://forms.gle/fQir8Saqjecnewrb6)
 
 <h2>Who is teaching?</h2>
 

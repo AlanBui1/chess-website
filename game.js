@@ -20,7 +20,7 @@ window.onload = function(){
 	// sizes and DOM
 	//------------------------------------------------------------------------------------------------------------------
 
-	var SCALE = 1;
+	var SCALE = 1.5;
 	var HORIZON_Y = 100 * SCALE;
 	var SIZE = 400 * SCALE;
 	var NUM_CELLS = 8;
@@ -641,7 +641,6 @@ window.onload = function(){
 				//can cell be taken ?
 				var threateningCell = getThreateningCell(row,col);
 				if(threateningCell){
-					aa.play('check');
 					//invalid position
 					player.invalid = true;
 	                player.invalidCol = col;
@@ -657,9 +656,7 @@ window.onload = function(){
 						//take the piece
 						destroyPiece(cell.piece);
 						killCount++;
-						aa.play('capture');
 					}else{
-						aa.play('move');
 					}
 					//move piece on check board
 					oldCell.piece = null;
@@ -1031,14 +1028,13 @@ window.onload = function(){
 			}else{
 				setGameIsOver(true);
 			}
-			aa.play('checkmate');
 		}
 
 		//update checkboard based on progress
 		var topRow = Math.floor(progress) + NUM_CELLS_DISPLAYED;
 		if(!lastTime || topRowDisplayed < topRow){
 			var row, colIndex, changes;
-			//Destroy out of view rows
+			//Destroy out of view rows 
 			for(var i=topRow - NUM_CELLS_DISPLAYED - 5; i>topRowDisplayed - NUM_CELLS_DISPLAYED - 5; i--){
 				row = checkBoard[i];
 				if(row){

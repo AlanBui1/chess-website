@@ -20,7 +20,7 @@ window.onload = function(){
 	// sizes and DOM
 	//------------------------------------------------------------------------------------------------------------------
 
-	var SCALE = 1.5;
+	var SCALE = 1.45;
 	var HORIZON_Y = 100 * SCALE;
 	var SIZE = 400 * SCALE;
 	var NUM_CELLS = 8;
@@ -61,7 +61,7 @@ window.onload = function(){
 	var gameIsOver = false;
 	var autoMove = false;
     var progress = 0;	//expressed as a number of rows
-    var progressPerSec = 1; //1
+    var progressPerSec = 2; //1
     var checkBoard = null;
     var checkPoints = null;
     var topRowDisplayed = -1;
@@ -185,6 +185,8 @@ window.onload = function(){
 			'kkkkkkkk'
 		);
 
+
+
 		// first pawn
 		block(
 			{showThreat:'p'},
@@ -198,59 +200,59 @@ window.onload = function(){
 			''
 		);
 
-		// scattered pawns
+		// pawn wall
 		block(
-			'  pppp',
-			'  pppp',
+			'p p p p',
+			'p p p p',
 			'',
-			'  p',
-			'',
-			'     p',
-			'',
-			' p'
+			' p p p',
+			'p p p p',
+			' p p p',
+			' p p p',
+			'p p p p'
 		);
 
-		// pawn rows
+		// pawn cave
 		block(
-			'',
 			'pppppp',
+			'p',
+			'p',
+			'p  pppp',
+			' p    pp',
+			'  pppp',
 			'',
-			'  pppppp',
-			'',
-			'pppppp',
-			'',
-			''
+			'  pppp'
 		);
 
 		// triangle
 		block(
+			'  p   p',
+			'pp   pp',
+			'    pp',
+			'  pp',
 			'',
-			'pp   ppp',
-			'  p p',
-			'   p',
+			'  pppppp',
 			'',
-			'',
-			'',
-			''
+			'pppppp'
 		);
 
-		// sawtooth
+		// blocks
 		block(
+			'pp',
+			'pp    pp',
+			'  pp',
+			'  pp',
 			'',
-			'   pp',
-			'p p  p p',
-			' p    p',
-			'',
-			'',
-			'',
-			''
+			'pp    pp',
+			'pp    pp',
+			'    p'
 		);
 
 		// wedges
 		block(
-			'',
-			'    ppp',
-			'     p',
+			'ppp',
+			' p   ppp',
+			'      p',
 			'ppp',
 			' p   ppp',
 			'      p',
@@ -276,41 +278,41 @@ window.onload = function(){
 
 		// rook diag
 		block(
-			'',
-			'',
-			'r',
-			' r',
-			'  r',
-			'   r',
-			'    r',
+			'      r',
+			'     rp',
+			'r  p p',
+			'rrp',
+			'  rpr',
+			'  prp',
+			'   pr',
 			'     r',
 			'pppppp'
-		);
+		);		
 
 		// rook rows
         block(
+            '     p',
+            '    rrp',
             '',
-            '',
-            '',
-            '       p',
-            '    rp r',
-            '',
+            '   rr p',
+            '      r',
+            '      p',
             '',
             'pp',
-            'r   p  p',
+            'r   p ',
             'p'
         );
 
 		// rook labyrinth
 		block(
-            '',
-            'p     r',
-            'r     p',
-            'r    p',
-            '',
+            '      p',
+            'p     pr',
+            ' p   p',
+            'r p  p',
             '   p',
             '   p',
-            'p  ppppp',
+            '   p',
+            'p  ppp p',
             ''
         );
 
@@ -333,23 +335,23 @@ window.onload = function(){
 
 		//11 bishop field
 		block(
-			'',
+			' b',
 			' p p p',
 			'b b b b',
+			'    p',
 			'',
 			'',
 			'',
-			'',
-			'',
-			''
+			' b b b b',
+			'b b b b'
 		);
 
-		//12 rooks & bishops simple
+		//12 rooks & bishops
 		block(
-			'',
-			'r.p..p.r',
+			' p    p',
+			'r.p.p..r',
 			'p......p',
-			'',
+			'r  pp  r',
 			'b      b',
 			'pp....pp',
 			'',
@@ -387,12 +389,12 @@ window.onload = function(){
 
 		//15 knight rows
 		block(
-			'p',
+			'pb',
 			'r.....p',
 			'',
 			'',
-			'......kk',
-			'',
+			'......kr',
+			'p',
 			'pkk',
 			''
 		);
@@ -401,13 +403,13 @@ window.onload = function(){
         block(
             'p   pppp',
             'r    b r',
-            '   p b p',
+            '     b p',
             '',
             '',
+            '   k',
             '',
-            ' k',
-            '',
-            '',
+            '   k',
+            'k',
             ''
         );
 
@@ -431,41 +433,41 @@ window.onload = function(){
         block(
             'l.llllll',
             'l.l....l',
-            '..l.llll',
+            '..l.ll.l',
             '.ll.l   ',
             'l...l l ',
-            'l.lll l ',
+            'lllll l ',
             'l.    l ',
             'lllllll '
         );
 
 		//land mines and pawns
         block(
+			'ppppppl',
             ' p  pll',
             ' l p   l',
             'lpl p p ',
             '     lp',
             'll ll l',
             ' l  l',
-            '',
-            ''
+            'll llll'
         );
 
         //k,r,b,p,l
         block(
-            '',
+            ' k r b k',
             '  r',
             '  llk',
             '     .',
-            '   l ..',
+            'llll ..',
             '   p  pb',
             '  . .  l',
-            '  p  l',
+            '  p  ',
             '',
-            '',
-            '',
-            '',
-            ''
+            'l',
+            ' lllllll',
+            'l     ll',
+            'llll lll'
         );
 
         //CHECK POINT 5

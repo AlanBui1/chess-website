@@ -61,7 +61,7 @@ window.onload = function(){
 	var gameIsOver = false;
 	var autoMove = false;
     var progress = 0;	//expressed as a number of rows
-    var progressPerSec = 2; //1
+    var progressPerSec = 1.2; //1
     var checkBoard = null;
     var checkPoints = null;
     var topRowDisplayed = -1;
@@ -443,7 +443,7 @@ window.onload = function(){
 
 		//land mines and pawns
         block(
-			'ppppppl',
+			'pp   pl',
             ' p  pll',
             ' l p   l',
             'lpl p p ',

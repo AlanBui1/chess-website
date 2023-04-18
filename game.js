@@ -1,3 +1,5 @@
+//Chess Pursuit modified from https://github.com/Saturnyn/ChessPursuit
+
 window.onload = function(){
 	"use strict";
 
@@ -111,6 +113,13 @@ window.onload = function(){
 
 	var DANGER = '*';
 	var CHECK_POINT = '#';
+
+
+	//MUSIC
+
+	var musicStarted = false;
+	var gameSound = new Audio('assets/music/LEVEL_compressed.wav')
+	var loseSound = new Audio('assets/music/Lose.mp3')
 
 	//------------------------------------------------------------------------------------------------------------------
 	// initialization
@@ -850,6 +859,13 @@ window.onload = function(){
 			}else{
 				if(introStep >= 0){
 					if(keys.space === 0 || mouse.click){
+						if (!musicStarted){
+							musicStarted = true;
+							gameSound.loop = true;
+							loseSound.pause();
+							gameSound.play();
+						}
+
 						keys.space = -1;
                         nextIntroStep();
                     }
@@ -880,9 +896,14 @@ window.onload = function(){
 				gameIsOver = val;
 
 				if(gameIsOver){
+					gameSound.pause();
+					loseSound.currentTime = 0;
+					loseSound.play()
 					gameOverScreen.style.display = 'block';
 				}else{
 					gameOverScreen.style.display = 'none';
+					loseSound.pause()
+					gameSound.play()
 					restart();
 				}
 			}

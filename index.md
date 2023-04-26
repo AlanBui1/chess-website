@@ -37,20 +37,20 @@ feature_row:
     url: "/windsorcc/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
+
+  - image_path: /assets/images/chesspursuit.png
+    alt: "Chess Pursuit"
+    title: "Chess Pursuit"
+    excerpt: "A hard mode of Chess Pursuit by Saturnyn is here! See if you have what it takes to win!"
+    url: "/game"
+    btn_class: "btn--primary"
+    btn_label: "Play Now!"
     
   - image_path: /assets/images/KCIChessTournament3.png
     alt: "KCI Chess Tournament"
     title: "KCI Chess Tournament #3"
     excerpt: "KCI Chess Tournament #3 is over! View results now!"
     url: "/kcichess3/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-
-  - image_path: /assets/images/FebChessChallenge.png
-    alt: "Chess Tournament Flyer"
-    title: "Massey's February Chess Challenge"
-    excerpt: "Massey's February Tournament is over! View results now!"
-    url: "/febchesspost/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 

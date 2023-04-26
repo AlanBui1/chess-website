@@ -1,4 +1,6 @@
 main:
+  - title: "Chess Pursuit"
+    url: /game
   - title: "Homework"
     url: /homework/
   - title: "Posts"

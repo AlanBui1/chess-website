@@ -1138,7 +1138,7 @@ window.onload = function(){
 			//Waiting for space
 		}else if(introStep == 1){
 			if(init){
-				showDialog(true,['Surrender Black King !', 'Your army is defeated, and your Queen is mine !']);
+				showDialog(true,['Surrender Black King !', 'Your army is defeated, and your Queen is mine !', 'Winning this is going to be way harder than in the original game by Saturnyn !']);
 				whiteKing.talking = true;
 			}
 		}else if(introStep == 2){
@@ -1157,7 +1157,7 @@ window.onload = function(){
             }
         }else if(introStep == 4){
             if(init){
-                showDialog(false,['Never !']);
+                showDialog(false,['Never !',  'I have cool music with me this time :D']);
                 blackKing.talking = true;
             }
             //sword ?

@@ -1,7 +1,7 @@
 // NOTE: this example uses the chess.js library:
 // https://github.com/jhlywa/chess.js
-import { Chess } from '/chessjudge/chess.js'
-import puzzles from '/chessjudge/puzzles.json' assert { type: 'json' }
+import { Chess } from '/homework/chess.js'
+import puzzles from '/homework/puzzles.json' assert { type: 'json' }
 
 let curPuzzle = "puzzle1"
 let curMove = 0

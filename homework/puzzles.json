@@ -13,5 +13,21 @@
             "Rxd4",
             "Rxd4"
         ]
+    },
+
+    "puzzle2" : {
+        "numMoves" : 3,
+        "startFEN": "6rk/1p6/pb5p/4p3/4P3/6P1/P4PK1/3Q4 w - - 0 1",
+        "FENS" : [
+            "6rk/1p6/pb5p/4p3/4P3/6P1/P4PK1/3Q4 w - - 0 1",
+            "6rk/1p6/pb1Q3p/4p3/4P3/6P1/P4PK1/8 b - - 1 1",
+            "3b2rk/1p6/p2Q3p/4p3/4P3/6P1/P4PK1/8 w - - 0 2",
+            "3b2rk/1p6/p6Q/4p3/4P3/6P1/P4PK1/8 b - - 0 2"
+        ],
+        "moves": [
+            "Qd6",
+            "Bd8",
+            "Qxh6"
+        ]
     }
 }

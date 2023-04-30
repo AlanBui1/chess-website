@@ -3,7 +3,7 @@
 import { Chess } from '/homework/chess.js'
 import puzzles from '/homework/puzzles.json' assert { type: 'json' }
 
-let curPuzzle = "puzzle1"
+let curPuzzle = "puzzle2"
 let curMove = 0
 let numMoves = puzzles[curPuzzle]["numMoves"]
 
@@ -30,7 +30,6 @@ function onDrop (source, target) {
   if (move === null) return 'snapback'
 
   if (!(game.fen() === puzzles[curPuzzle]["FENS"][curMove+1])){
-    console.log("SAD")
     board = Chessboard('myBoard', config)
     game = new Chess(puzzles[curPuzzle]["FENS"][0])
     curMove = 0
@@ -40,7 +39,6 @@ function onDrop (source, target) {
     curMove += 2
     if (curMove < numMoves){
       game.move(puzzles[curPuzzle]["moves"][curMove-1])
-      console.log("YAY")
     }
     else{
       config.position = 'rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1'

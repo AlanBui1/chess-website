@@ -37,7 +37,7 @@ hidden: true
 </div>
 
 ## Daily Puzzle
-#### White to move
+<b>White to move</b>
 
 <link rel="stylesheet"
   href="https://unpkg.com/@chrisoakman/chessboardjs@1.0.0/dist/chessboard-1.0.0.min.css"

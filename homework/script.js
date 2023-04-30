@@ -31,8 +31,7 @@ function onDrop (source, target) {
 
   if (!(game.fen() === puzzles[curPuzzle]["FENS"][curMove+1])){
     board = Chessboard('myBoard', config)
-    game = new Chess(puzzles[curPuzzle]["FENS"][0])
-    curMove = 0
+    game.undo()
   }
 
   else{

@@ -223,48 +223,48 @@ window.onload = function(){
 
 		// pawn cave
 		block(
-			'  pppppp',
-			'       p',
-			'       p',
-			' pppp  p',
-			'pp    p ',
+			'pppppp  ',
+			'p       ',
+			'p       ',
+			'p  pppp ',
+			' p    pp',
 			'  pppp  ',
 			'        ',
-			'  pppp  ',
+			'  pppp  '
 		);
 
 		// triangle
 		block(
-			' p   p  ',
-			' pp   pp',
-			'  pp    ',
+			'  p   p ',
+			'pp   pp ',
 			'    pp  ',
+			'  pp    ',
 			'        ',
-			'pppppp  ',
+			'  pppppp',
 			'        ',
-			'  pppppp'
+			'pppppp  '
 		);
 
 		// blocks
 		block(
-			'      pp',
+			'pp      ',
 			'pp    pp',
-			'    pp  ',
-			'    pp  ',
+			'  pp    ',
+			'  pp    ',
 			'        ',
 			'pp    pp',
 			'pp    pp',
-			'   p    '
+			'    p   '
 		);
 
 		// wedges
 		block(
-			'     ppp',
-			'ppp   p ',
-			' p      ',
-			'     ppp',
-			'ppp   p ',
-			' p      ',
+			'ppp     ',
+			' p   ppp',
+			'      p ',
+			'ppp     ',
+			' p   ppp',
+			'      p ',
 			'        ',
 			'        '
 		);
@@ -287,41 +287,42 @@ window.onload = function(){
 
 		// rook diag
 		block(
-			'        ',
-			' p      ',
-			'  p p  r',
-			'     prr',
-			'   rpr  ',
-			'   prp  ',
-			'   rp   ',
-			'  r     ',
-			'p pppp  '
+			'      r ',
+			'     rp ',
+			'r  p p  ',
+			'rrp     ',
+			'  rpr   ',
+			'  prp   ',
+			'   pr   ',
+			'     r  ',
+			'pppppp  '
 		);		
 
 		// rook rows
         block(
-			'  p     ',
-			' prr    ',
-			'        ',
-			' p rr   ',
-			' r      ',
-			' p      ',
-			'        ',
-			'      pp',
-			'r   p   ',
-			'p       '
+            '     p  ',
+            '    rrp ',
+            '        ',
+            '   rr p ',
+            '      r ',
+            '      p ',
+            '        ',
+            'pp      ',
+            'r   p   ',
+            'p       '
         );
 
 		// rook labyrinth
 		block(
-			' p      ',
-			'rp     p',
-			'  p   p ',
-			'  p  p r',
-			'    p   ',
-			'    p   ',
-			'    p   ',
-			'p ppp  p'
+            '      p ',
+            'p     pr',
+            ' p   p  ',
+            'r p  p  ',
+            '   p    ',
+            '   p    ',
+            '   p    ',
+            'p  ppp p',
+            ''
         );
 
 		//CHECK POINT 2
@@ -343,21 +344,21 @@ window.onload = function(){
 
 		//11 bishop field
 		block(
-			'      b ',
-			'  p p p ',
-			' b b b b',
-			'   p    ',
-			'        ',
-			'        ',
-			'        ',
+			' b      ',
+			' p p p  ',
 			'b b b b ',
-			' b b b b'
+			'    p   ',
+			'        ',
+			'        ',
+			'        ',
+			' b b b b',
+			'b b b b '
 		);
 
 		//12 rooks & bishops
 		block(
 			' p    p ',
-			'r..p.p.r',
+			'r.p.p..r',
 			'p......p',
 			'r  pp  r',
 			'b      b',
@@ -370,13 +371,13 @@ window.onload = function(){
 		//13 pawns, bishops and rooks
 		block(
 			'        ',
-			'       r',
-			'b..p  r ',
-			'r..     ',
-			'   p....',
-			'    p...',
-			'     p..',
-			'p.....pp'
+			'r       ',
+			' r  p..b',
+			'     ..r',
+			'....p   ',
+			'...p    ',
+			'..p     ',
+			'pp.....p'
 		);
 
 		//CHECK POINT 3
@@ -397,28 +398,28 @@ window.onload = function(){
 
 		//15 knight rows
 		block(
-			'      bp',
-			' p.....r',
+			'pb      ',
+			'r.....p ',
 			'        ',
 			'        ',
-			'rk......',
-			'       p',
-			'     kkp',
+			'......kr',
+			'p       ',
+			'pkk     ',
 			'        '
 		);
 
 		//rooks bishop and knight
         block(
-			'pppp   p',
-			'r b    r',
-			'p b     ',
-			'        ',
-			'        ',
-			'    k   ',
-			'        ',
-			'    k   ',
-			'       k',
-			'        '
+            'p   pppp',
+            'r    b r',
+            '     b p',
+            '        ',
+            '        ',
+            '   k    ',
+            '        ',
+            '   k    ',
+            'k       ',
+            '        '
         );
 
         //CHECK POINT 4
@@ -439,43 +440,43 @@ window.onload = function(){
 
         //land mines
         block(
-			'llllll.l',
-			'l....l.l',
-			'l.ll.l..',
-			'   l.ll.',
-			' l l...l',
-			' l lllll',
-			' l    .l',
-			' lllllll'
+            'l.llllll',
+            'l.l....l',
+            '..l.ll.l',
+            '.ll.l   ',
+            'l...l l ',
+            'lllll l ',
+            'l.    l ',
+            'lllllll '
         );
 
 		//land mines and pawns
         block(
-			' lp   pp',
-			' llp  p ',
-			'l   p l ',
-			' p p lpl',
-			' pl     ',
-			' l ll ll',
-			'   l  l ',
-			' llll ll'
+			'pp   pl ',
+            ' p  pll ',
+            ' l p   l',
+            'lpl p p ',
+            '     lp ',
+            'll ll l ',
+            ' l  l   ',
+            'll llll '
         );
 
         //k,r,b,p,l
         block(
-			'k b r k ',
-			'     r  ',
-			'   kll  ',
-			'        ',
-			'..  llll',
-			'bp  p   ',
-			'l  . .  ',
-			'     p  ',
-			'        ',
-			'       l',
-			'lllllll ',
-			'll     l',
-			'lll llll'
+            ' k r b k',
+            '  r     ',
+            '  llk   ',
+            '        ',
+            'llll  ..',
+            '   p  pb',
+            '  . .  l',
+            '  p     ',
+            '        ',
+            'l       ',
+            ' lllllll',
+            'l     ll',
+            'llll lll'
         );
 
         //CHECK POINT 5

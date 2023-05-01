@@ -19,8 +19,6 @@ excerpt:
   <br><br><br>
   The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
   
-
-#   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /assets/images/WindsorCEPSpring.png
     alt: "Windsor Chess Enrichment Program Spring Session"
@@ -46,13 +44,13 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Play Now!"
     
-  - image_path: /assets/images/KCIChessTournament3.png
-    alt: "KCI Chess Tournament"
-    title: "KCI Chess Tournament #3"
-    excerpt: "KCI Chess Tournament #3 is over! View results now!"
-    url: "/kcichess3/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  # - image_path: /assets/images/KCIChessTournament3.png
+  #   alt: "KCI Chess Tournament"
+  #   title: "KCI Chess Tournament #3"
+  #   excerpt: "KCI Chess Tournament #3 is over! View results now!"
+  #   url: "/kcichess3/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
 
   - image_path: /assets/images/typical-tactical-tricks-logo.png
     alt: "Typical Tactical Tricks: 500 Ways To Win!"

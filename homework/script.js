@@ -3,7 +3,14 @@
 import { Chess } from '/homework/chess.js'
 import puzzles from '/homework/puzzles.json' assert { type: 'json' }
 
-let curPuzzle = "puzzle9"
+let todayDate = new Date()
+let startDate = new Date(2023, 4, 28)
+let diff = Math.abs(todayDate.getTime() - startDate.getTime())
+console.log(diff)
+let daydiff = Math.floor(diff / (1000 * 60 * 60 * 24))   
+console.log(daydiff)
+
+let curPuzzle = "puzzle" + daydiff
 let curMove = 0
 let numMoves = puzzles[curPuzzle]["numMoves"]
 

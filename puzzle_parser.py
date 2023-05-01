@@ -17,22 +17,29 @@ def convertUCI(curBoard, move):
 
 puzzle_list = [""]
 
-with open("lichess_db_puzzle.csv") as inFile:
+DATABASE_FILE = "C:/Users/alanb/WindsorChess/lichess_db_puzzle.csv"
+
+with open(DATABASE_FILE) as inFile:
     for i in range(1000):
         puzzle_list.append(Puzzle(inFile.readline().split(",")))
 
 board = chess.Board(puzzle_list[1].FEN)
-convertUCI(board, puzzle_list[1].moves[0])
-        
+
+count = 0
+
 with open("puzzles.json", "w") as outFile:
     outFile.write("{\n")
     for i in range(1, 1001):
-        outFile.write("\t" + '"puzzle' + str(i) + '" : {\n')
+        board = chess.Board(puzzle_list[i].FEN)
+        if board.turn == chess.BLACK:
+            continue
+        count += 1
+
+        outFile.write("\t" + '"puzzle' + str(count) + '" : {\n')
         outFile.write("\t\t" + '"numMoves" : ' + str(len(puzzle_list[i].moves)) + ",\n")
         outFile.write("\t\t" + '"startFEN" : "' + puzzle_list[i].FEN + '",\n')
         outFile.write("\t\t" + '"FENS" : [\n')
 
-        board = chess.Board(puzzle_list[i].FEN)
         outFile.write("\t\t\t" + '"' + puzzle_list[i].FEN +'",\n')
         for k in range(len(puzzle_list[i].moves)):
             move = puzzle_list[i].moves[k]

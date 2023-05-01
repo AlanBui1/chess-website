@@ -3,7 +3,7 @@
 import { Chess } from '/homework/chess.js'
 import puzzles from '/homework/puzzles.json' assert { type: 'json' }
 
-let curPuzzle = "puzzle2"
+let curPuzzle = "puzzle9"
 let curMove = 0
 let numMoves = puzzles[curPuzzle]["numMoves"]
 

@@ -5,7 +5,7 @@ class Puzzle:
         self.id = lis[0]
         self.FEN = lis[1]
         self.moves = lis[2].split()[1:]
-        self.rating = lis[3]
+        self.rating = int(lis[3])
 
         board = chess.Board(self.FEN)
         board.push_san(lis[2].split()[0])
@@ -15,13 +15,15 @@ class Puzzle:
 def convertUCI(curBoard, move):
     return curBoard.san(chess.Move.from_uci(move))
 
-puzzle_list = [""]
+puzzle_list = []
 
 DATABASE_FILE = "C:/Users/alanb/WindsorChess/lichess_db_puzzle.csv"
 
 with open(DATABASE_FILE) as inFile:
-    for i in range(1000):
+    for i in range(10000):
         puzzle_list.append(Puzzle(inFile.readline().split(",")))
+
+puzzle_list.sort(key = lambda x : x.rating)
 
 board = chess.Board(puzzle_list[1].FEN)
 
@@ -29,13 +31,14 @@ count = 0
 
 with open("puzzles.json", "w") as outFile:
     outFile.write("{\n")
-    for i in range(1, 1001):
+    for i in range(1, 10000):
         board = chess.Board(puzzle_list[i].FEN)
         if board.turn == chess.BLACK:
             continue
         count += 1
 
         outFile.write("\t" + '"puzzle' + str(count) + '" : {\n')
+        outFile.write("\t\t" + '"rating" : ' + str(puzzle_list[i].rating) + ",\n")
         outFile.write("\t\t" + '"numMoves" : ' + str(len(puzzle_list[i].moves)) + ",\n")
         outFile.write("\t\t" + '"startFEN" : "' + puzzle_list[i].FEN + '",\n')
         outFile.write("\t\t" + '"FENS" : [\n')

@@ -20,7 +20,7 @@ puzzle_list = []
 DATABASE_FILE = "C:/Users/alanb/WindsorChess/lichess_db_puzzle.csv"
 
 with open(DATABASE_FILE) as inFile:
-    for i in range(10000):
+    for i in range(20000):
         puzzle_list.append(Puzzle(inFile.readline().split(",")))
 
 puzzle_list.sort(key = lambda x : x.rating)
@@ -31,7 +31,7 @@ count = 0
 
 with open("puzzles.json", "w") as outFile:
     outFile.write("{\n")
-    for i in range(1, 10000):
+    for i in range(1, 20000):
         board = chess.Board(puzzle_list[i].FEN)
         if board.turn == chess.BLACK:
             continue
@@ -39,6 +39,7 @@ with open("puzzles.json", "w") as outFile:
 
         outFile.write("\t" + '"puzzle' + str(count) + '" : {\n')
         outFile.write("\t\t" + '"rating" : ' + str(puzzle_list[i].rating) + ",\n")
+        outFile.write("\t\t" + '"iD" : "' + str(puzzle_list[i].id) + '",\n')
         outFile.write("\t\t" + '"numMoves" : ' + str(len(puzzle_list[i].moves)) + ",\n")
         outFile.write("\t\t" + '"startFEN" : "' + puzzle_list[i].FEN + '",\n')
         outFile.write("\t\t" + '"FENS" : [\n')

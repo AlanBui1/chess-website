@@ -6,7 +6,7 @@ tags:
   - Tournament
 ---
 
-In collaboration with Amherstburg Open Air Weekends, we are hosting a chess tournament on Saturday, June 24th from 4:00-7:30 PM! 
+In collaboration with Amherstburg Open Air Weekends, we are hosting a chess tournament on Saturday, June 24th from 1:00-5:00 PM! 
 
 <img src="/assets/images/OpenAirChess.png" alt="Tournament Flyer" height = "60%" width = "60%">
 
@@ -40,7 +40,7 @@ Directions: Will be updated as soon as we know!
 
 Capacity may be limited.
 
-<h2>Prizes:</h2> TBD
+<!-- <h2>Prizes:</h2> TBD -->
  
 <h3>Hope to see you there!</h3>
  

@@ -10,11 +10,11 @@ In collaboration with Amherstburg Open Air Weekends, we are hosting a chess tour
 
 <img src="/assets/images/OpenAirChess.png" alt="Tournament Flyer" height = "60%" width = "60%">
 
-<h2>Location:</h2> The exact location is TBD but it will be outdoors.
+<h2>Location:</h2> 252 Dalhousie St. (Amherstburg)
 
-Directions: Will be updated as soon as we know!
+Directions: 
 
-<!-- <a href = "https://goo.gl/maps/P9n8JcnS7chTAChZ6">Google Maps </a> -->
+<a href = "https://goo.gl/maps/uUCpDx4Sxsn17XDi7?coh=178572&entry=tt">Google Maps </a>
 
 <h2>Schedule</h2>
 

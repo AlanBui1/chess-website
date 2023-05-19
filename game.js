@@ -2106,7 +2106,7 @@ window.onload = function(){
                 'text-anchor': 'middle',
                 'font-family':'Impact'
             });
-            svgInnerHtml(text, 'CHESS<tspan style="font-style:italic;">PURSUIT</tspan>');
+            svgInnerHtml(text, 'CHESS<tspan style="font-style:italic;"><br>PURSUIT</tspan>');
             introScreen.appendChild(text);
         }
 

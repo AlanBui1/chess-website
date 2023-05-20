@@ -49,7 +49,7 @@ feature_row:
     alt: "All games image"
     title: "Chess Resources"
     excerpt: "Chess Pursuit (Hard), Puzzle Trainer, and more learning resources!"
-    url: "/resources/"
+    url: "/resources"
     btn_class: "btn--primary"
     btn_label: "Play Now!"
 

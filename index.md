@@ -37,6 +37,14 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
+  - image_path: /assets/images/WindsorCEPSpring.png
+    alt: "Windsor Chess Enrichment Program Spring Session"
+    title: "Windsor Chess Enrichment Program Spring Session"
+    excerpt: "The Windsor Chess Enrichment Program Spring Session is starting April 8th! Learn more by clicking the button below!"
+    url: "/springcep/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
   - image_path: /assets/images/wcc1.png
     alt: "Chess Tournament"
     title: "Impressive Results at Windsor Chess Challenge"
@@ -53,13 +61,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Play Now!"
 
-  - image_path: /assets/images/WindsorCEPSpring.png
-    alt: "Windsor Chess Enrichment Program Spring Session"
-    title: "Windsor Chess Enrichment Program Spring Session"
-    excerpt: "The Windsor Chess Enrichment Program Spring Session is starting April 8th! Learn more by clicking the button below!"
-    url: "/springcep/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+
 
 
     

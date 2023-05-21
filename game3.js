@@ -212,61 +212,45 @@ window.onload = function(){
 		// pawn wall
 		block(
 			'p  pp  p',
-			' p pp p ',
-			'  pppp  ',
-			'   pp   ',
-			'   pp   ',
+			' p pp pp',
+			'p pppp  ',
+			'p   p   ',
+			'p  p  p ',
 			'  p  p  ',
 			' p    p ',
-			'p      p'
-		);
-
-		// pawn cave
-		block(
+			'p      p',
 			'p  pp  p',
 			' p pp p ',
-			'  pppp  ',
-			'   pp   ',
-			'   pp   ',
-			'  pppp  ',
+			'  pp p p',
+			'      p ',
+			'     p  ',
+			'  pp p  ',
 			' p pp p ',
-			'p  pp  p'
-		);
-
-		// triangle
-		block(
+			'p  pp  p',
 			'p  ppp  ',
-			' p ppp  ',
-			' p ppp  ',
-			'p  ppp  ',
+			' p ppp p',
+			'      p ',
+			'pppppp  ',
 			'  pppp  ',
 			'  ppp  p',
 			' p pp  p',
-			'p  pp  p'
-		);
-
-		// blocks
-		block(
-			'p  ppp  ',
+			'p  pp  p',
 			' p ppp  ',
 			' p ppp  ',
-			'p  ppp  ',
-			'  pppp  ',
-			'  ppp  p',
-			' p pp  p',
-			'p  pp  p'
-		);
-
-		// wedges
-		block(
-			'p  ppppp',
 			' p ppp  ',
-			' p ppp  ',
-			'p  ppp  ',
-			'  pppp  ',
-			'  ppp  p',
-			' p pp  p',
-			'p  pp  p'
+			'p  ppp p',
+			'p p pp  ',
+			'  p p  p',
+			' p      ',
+			'p   pp  ',
+			'p pp   p',
+			'p p p pp',
+			' p p p p',
+			'        ',
+			'p p p p ',
+			' p p p p',
+			'p p p p ',
+			' p p p p'
 		);
 
 		//CHECK POINT 1
@@ -284,45 +268,53 @@ window.onload = function(){
 			'',
 			''
 		);
-
-		// rook diag
+		//rook
 		block(
-			'        ',
-			' p      ',
-			'  p p  r',
-			'     prr',
-			'   rpr  ',
-			'   prp  ',
-			'   rp   ',
+			'r       ',
+			'    r   ',
+			'      rp',
+			'   r   p',
+			'  p   p ',
+			'   p p  ',
+			'    p   ',
+			'    p   ',
+			'    r   ',
+			'   r    ',
 			'  r     ',
-			'p pppp  '
+			' r      ',
+			'p p p p ',
+			' p p p p',
+			'       p',
+			'       r',
+			'    r   ',
+			' r      ',
+			' p  p  p',
+			'p  p  p ',
+			'r       ',
+			'p      r',
+			'r       ',
+			'     r  ',
+			'     p p',
+			'    p  p',
+			'    pp  ',
+			'    r p ',
+			'       p',
+			'  p r p ',
+			' p  rp  ',
+			'p   p  p',
+			'pp prp p',
+			'        ',
+			'    p   ',
+			'    p   ',
+			'    p   ',
+			'    r   ',
+			'   r    ',
+			'  r     ',
+			' r      ',
+			' p pp   '
 		);		
 
-		// rook rows
-        block(
-			'  p     ',
-			' prr    ',
-			'        ',
-			' p rr   ',
-			' r      ',
-			' p      ',
-			'        ',
-			'      pp',
-			'r   p   ',
-			'p       '
-        );
 
-		// rook labyrinth
-		block(
-			' p      ',
-			'rp     p',
-			'  p   p ',
-			'  p  p r',
-			'    p   ',
-			'    p   ',
-			'    p   ',
-			'p ppp  p'
-        );
 
 		//CHECK POINT 2
         checkPoint();

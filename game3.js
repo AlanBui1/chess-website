@@ -379,7 +379,7 @@ window.onload = function(){
 		//CHECK POINT 3
 		checkPoint();
 
-		//14 first knight
+		//first knight
 		block(
 			{showThreat:'k'},
 			'',
@@ -392,31 +392,35 @@ window.onload = function(){
 			''
 		);
 
-		//15 knight rows
+		//knight
 		block(
-			'      bp',
-			' p.....r',
-			'        ',
-			'        ',
-			'rk......',
-			'       p',
-			'     kkp',
-			'        '
-		);
-
-		//rooks bishop and knight
-        block(
-			'pppp   p',
-			'r b    r',
-			'p b     ',
-			'        ',
-			'        ',
-			'    k   ',
-			'        ',
-			'    k   ',
 			'       k',
-			'        '
-        );
+			'k       ',
+			'       r',
+			'r      p',
+			'       r',
+			'      kk',
+			'        ',
+			'br      ',
+			'       k',
+			'        ',
+			'p       ',
+			'r p k   ',
+			'p pk   b',
+			'p p p  k',
+			'  pb    ',
+			'  p    p',
+			'r       ',
+			'    k   ',
+			'  b    p',
+			'  r    p',
+			'        ',
+			'   k    ',
+			'        ',
+			' k   p  ',
+			' k   k k',
+			'k k k k '
+		);
 
         //CHECK POINT 4
         checkPoint();

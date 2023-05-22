@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/chesspursuit.png
     alt: "Chess Pursuit"
     title: "Chess Pursuit"
-    excerpt: "A hard mode of Chess Pursuit by Saturnyn is here! See if you have what it takes to win!"
+    excerpt: "A (very) hard mode of Chess Pursuit by Saturnyn is here! See if you have what it takes to win!"
     url: "/game"
     btn_class: "btn--primary"
     btn_label: "Play Now!"

@@ -440,30 +440,6 @@ window.onload = function(){
 
         //land mines
         block(
-			'llllll.l',
-			'l....l.l',
-			'l.ll.l..',
-			'   l.ll.',
-			' l l...l',
-			' l lllll',
-			' l    .l',
-			' lllllll'
-        );
-
-		//land mines and pawns
-        block(
-			' lp   pp',
-			' llp  p ',
-			'l   p l ',
-			' p p lpl',
-			' pl     ',
-			' l ll ll',
-			'   l  l ',
-			' llll ll'
-        );
-
-        //k,r,b,p,l
-        block(
 			'k b r k ',
 			'     r  ',
 			'   kll  ',
@@ -471,13 +447,24 @@ window.onload = function(){
 			'..  llll',
 			'bp  p   ',
 			'l  . .  ',
-			'     p  ',
+			'  pppp  ',
+			'   bb   ',
+			'   ll   ',
+			'   ll   ',
 			'        ',
-			'       l',
-			'lllllll ',
-			'll     l',
-			'lll llll'
+			'     lll',
+			' lllll  ',
+			' l      ',
+			' l   l  ',
+			' l lll l',
+			' l  l  l',
+			' l  l  l',
+			'  ll   l',
+			'llllll l',
+			' l l l l',
+			'l l l l ',
         );
+
 
         //CHECK POINT 5
         checkPoint();

@@ -319,7 +319,7 @@ window.onload = function(){
 		//CHECK POINT 2
         checkPoint();
 
-		//10 first bishop
+		//first bishop
 		block(
 			{showThreat:'b'},
 			'',
@@ -333,42 +333,47 @@ window.onload = function(){
 			''
 		);
 
-		//11 bishop field
+		//bishop
 		block(
-			'      b ',
-			'  p p p ',
-			' b b b b',
-			'   p    ',
-			'        ',
-			'        ',
-			'        ',
-			'b b b b ',
-			' b b b b'
-		);
-
-		//12 rooks & bishops
-		block(
-			' p    p ',
-			'r..p.p.r',
-			'p......p',
-			'r  pp  r',
-			'b      b',
-			'pp....pp',
-			'        ',
-			'        '
-		);
-
-
-		//13 pawns, bishops and rooks
-		block(
-			'        ',
+			'       b',
+			'b      r',
+			'r      b',
+			'b      r',
+			'r      p',
 			'       r',
-			'b..p  r ',
-			'r..     ',
-			'   p....',
-			'    p...',
-			'     p..',
-			'p.....pp'
+			'       p',
+			'   r    ',
+			'  rp    ',
+			'  b     ',
+			' b p    ',
+			'b       ',
+			'pppp    ',
+			'     r  ',
+			'r       ',
+			'br   pbr',
+			'pp    pp',
+			'        ',
+			'    ppp ',
+			'p p  b  ',
+			'p p  p  ',
+			'p p  rp ',
+			'p p   b ',
+			'p p     ',
+			'p p   r ',
+			'p pp   p',
+			'p p   p ',
+			' p   p  ',
+			'p      p',
+			'     p p',
+			'  r  p  ',
+			'  p     ',
+			' r   p  ',
+			'p p    p',
+			'p p p p ',
+			' b b b b',
+			' r      ',
+			' b b b b',
+			'b b b b '
 		);
 
 		//CHECK POINT 3

@@ -18,7 +18,8 @@ excerpt:
 
   <br><br><br>
   The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
-  
+
+
 feature_row:
 
   - image_path: /assets/images/SummerChessChallenge.png
@@ -78,3 +79,5 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<iframe width="620px" height="565px" src="https://www.yumpu.com/en/embed/view/lcjZQkVuxn71y8EA" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/en/document/view/68118304/linda-nguyen-increasing-awareness-and-decreasing-stigma-surrounding-dementia-in-ontario-to-assist-caregivers-1-1" title="Linda_Nguyen_Increasing_Awareness_and_Decreasing_Stigma_Surrounding_Dementia_in_Ontario_to_Assist_Caregivers (1) (1)" target="_blank">Linda_Nguyen_Increasing_Awareness_and_Decreasing_Stigma_Surrounding_Dementia_in_Ontario_to_Assist_Caregivers (1) (1)</a>  

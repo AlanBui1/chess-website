@@ -79,5 +79,3 @@ feature_row:
 ---
 
 {% include feature_row %}
-
-<iframe width="620px" height="565px" src="https://www.yumpu.com/en/embed/view/lcjZQkVuxn71y8EA" frameborder="0" allowfullscreen="true"  allowtransparency="true"></iframe><br><a href="https://www.yumpu.com/en/document/view/68118304/linda-nguyen-increasing-awareness-and-decreasing-stigma-surrounding-dementia-in-ontario-to-assist-caregivers-1-1" title="Linda_Nguyen_Increasing_Awareness_and_Decreasing_Stigma_Surrounding_Dementia_in_Ontario_to_Assist_Caregivers (1) (1)" target="_blank">Linda_Nguyen_Increasing_Awareness_and_Decreasing_Stigma_Surrounding_Dementia_in_Ontario_to_Assist_Caregivers (1) (1)</a>  

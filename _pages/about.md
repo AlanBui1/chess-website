@@ -47,4 +47,4 @@ and hopes to excite and improve the next generation of Windsor kids about chess!
 <br>
 ## Contact Us
 
-We can be reached by email at: <a href = "mailto: windsorchessep@gmail.com">windsorchessep@gmail.com</a>
+We can be reached by email at: <a href = "mailto: codequestwindsor@gmail.com">codequestwindsor@gmail.com</a>

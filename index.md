@@ -17,7 +17,7 @@ excerpt:
 
 
   <br><br><br>
-  The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
+  The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer affordable chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
 
 
 feature_row:

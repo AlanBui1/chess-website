@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/SummerChessChallenge.png
     alt: "Summer Chess Challenge Flyer"
     title: "Summer Chess Challenge"
-    excerpt: "The Summer Chess Challenge is coming up soon! All proceeds go towards UNICEF's Ukraine Emergency Fund."
+    excerpt: "The Summer Chess Challenge is over! View results now"
     url: "/summerchess/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

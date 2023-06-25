@@ -27,7 +27,5 @@ The Summer Chess Challenge was held on Friday, June 16 at Vincent Massey Seconda
 | 2 | Sanchay Dhankhar | 4.0 |
 | 3 | Aiden Nguyen | 4.0 |
 
-Full standings will be posted shortly.
-
 Thanks to everyone for coming! We hope to see you at our next tournament! 
 

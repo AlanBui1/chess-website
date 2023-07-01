@@ -21,6 +21,14 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Play Now!"
 
+  - image_path: /assets/images/CoordsTrainer.png
+    alt: "Coordinates Trainer"
+    title: "Coordinates Trainer"
+    excerpt: "Test how well you really know the chessboard!"
+    url: "https://chess-coordinate-game.vercel.app/"
+    btn_class: "btn--primary"
+    btn_label: "Play Now!"
+
   - image_path: /assets/images/typical-tactical-tricks-logo.png
     alt: "Typical Tactical Tricks: 500 Ways To Win!"
     title: "Typical Tactical Tricks: 500 Ways To Win!"

@@ -33,7 +33,7 @@ feature_row:
   - image_path: /assets/images/OpenAirChess.png
     alt: "Open Air Weekends Chess Tournament Flyer"
     title: "Open Air Chess Tournament"
-    excerpt: "Join us for this FREE outdoor chess tournament in Amherstburg! Everyone is welcome to play!"
+    excerpt: "The Open Air Chess Tournament is over! See the winners now"
     url: "/openair/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

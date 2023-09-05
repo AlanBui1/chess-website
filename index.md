@@ -21,6 +21,13 @@ excerpt:
 
 
 feature_row:
+  - image_path: /assets/images/WindsorCEPFall.png
+    alt: "Windsor Chess Enrichment Program Fall Session"
+    title: "Windsor Chess Enrichment Program Fall Session"
+    excerpt: "The Windsor Chess Enrichment Program Fall Session is starting September 23rd! Learn more by clicking the button below!"
+    url: "/fallcep/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
   - image_path: /assets/images/SummerChessChallenge.png
     alt: "Summer Chess Challenge Flyer"
@@ -38,13 +45,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/WindsorCEPSpring.png
-    alt: "Windsor Chess Enrichment Program Spring Session"
-    title: "Windsor Chess Enrichment Program Spring Session"
-    excerpt: "The Windsor Chess Enrichment Program Spring Session is starting April 8th! Learn more by clicking the button below!"
-    url: "/springcep/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+
 
   - image_path: /assets/images/wcc1.png
     alt: "Chess Tournament"

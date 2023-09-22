@@ -21,6 +21,17 @@ excerpt:
 
 
 feature_row:
+
+
+
+    
+  - image_path: /assets/images/KCIChessTournament4.png
+    alt: "KCI Chess Tournament"
+    title: "KCI Chess Tournament #4"
+    excerpt: "KCI Chess Tournament #4 is starting soon! Register now!"
+    url: "/kcichess/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
   - image_path: /assets/images/WindsorCEPFall.png
     alt: "Windsor Chess Enrichment Program Fall Session"
     title: "Windsor Chess Enrichment Program Fall Session"
@@ -64,16 +75,6 @@ feature_row:
     btn_label: "Play Now!"
 
 
-
-
-    
-  # - image_path: /assets/images/KCIChessTournament3.png
-  #   alt: "KCI Chess Tournament"
-  #   title: "KCI Chess Tournament #3"
-  #   excerpt: "KCI Chess Tournament #3 is over! View results now!"
-  #   url: "/kcichess3/"
-  #   btn_class: "btn--primary"
-  #   btn_label: "Learn more"
 
 
 

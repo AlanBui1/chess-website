@@ -22,7 +22,13 @@ excerpt:
 
 feature_row:
 
-
+  - image_path: /assets/images/WinterChessTournament.png
+    alt: "Massey Winter Chess Tournament"
+    title: "Massey Winter Chess Tournament #4"
+    excerpt: "Massey Winter Chess Tournament #4 is here! Register now!"
+    url: "/masseywinter/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
     
   - image_path: /assets/images/KCIChessTournament4.png
@@ -40,21 +46,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/SummerChessChallenge.png
-    alt: "Summer Chess Challenge Flyer"
-    title: "Summer Chess Challenge"
-    excerpt: "The Summer Chess Challenge is over! View results now"
-    url: "/summerchess/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-
-  - image_path: /assets/images/OpenAirChess.png
-    alt: "Open Air Weekends Chess Tournament Flyer"
-    title: "Open Air Chess Tournament"
-    excerpt: "The Open Air Chess Tournament is over! See the winners now"
-    url: "/openair/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
 
 
 

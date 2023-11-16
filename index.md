@@ -24,8 +24,8 @@ feature_row:
 
   - image_path: /assets/images/WinterChessTournament.png
     alt: "Massey Winter Chess Tournament"
-    title: "Massey Winter Chess Tournament #4"
-    excerpt: "Massey Winter Chess Tournament #4 is here! Register now!"
+    title: "Massey Winter Chess Tournament"
+    excerpt: "Massey Winter Chess Tournament is here! Register now!"
     url: "/masseywinter/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

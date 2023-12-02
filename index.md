@@ -21,11 +21,18 @@ excerpt:
 
 
 feature_row:
+- image_path: /assets/images/WindsorCEPWinter2024.png
+    alt: "Windsor Chess Enrichment Program Winter Session"
+    title: "Windsor Chess Enrichment Program Winter Session"
+    excerpt: "The Windsor Chess Enrichment Program Winter Session is starting on January 20th! Learn more by clicking the button below!"
+    url: "/wintercep/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
 
   - image_path: /assets/images/WinterChessTournament.png
     alt: "Massey Winter Chess Tournament"
     title: "Massey Winter Chess Tournament"
-    excerpt: "Massey Winter Chess Tournament is here! Register now!"
+    excerpt: "Massey Winter Chess Tournament is over! See results now!"
     url: "/masseywinter/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -38,13 +45,7 @@ feature_row:
     url: "/kcichess4/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/WindsorCEPFall.png
-    alt: "Windsor Chess Enrichment Program Fall Session"
-    title: "Windsor Chess Enrichment Program Fall Session"
-    excerpt: "The Windsor Chess Enrichment Program Fall Session is starting on September 23rd! Learn more by clicking the button below!"
-    url: "/fallcep/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Windsor Chess Enrichment Program Fall Session"
+title: "Windsor Chess Enrichment Program Winter Session"
 # last_modified_at: 2023-09-04
 tags:
   - Program

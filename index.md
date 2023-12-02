@@ -20,8 +20,8 @@ excerpt:
   The Windsor Chess Enrichment program is designed to teach young children how to play and enjoy chess. We offer affordable chess classes for students at all skill levels and provide a welcoming and engaging atmosphere for them to play against each other. We also provide private lessons to those students that would like more personalized coaching.
 
 
-feature_row:
-- image_path: /assets/images/WindsorCEPWinter2024.png
+feature_row:  
+  - image_path: /assets/images/WindsorCEPWinter2024.png
     alt: "Windsor Chess Enrichment Program Winter Session"
     title: "Windsor Chess Enrichment Program Winter Session"
     excerpt: "The Windsor Chess Enrichment Program Winter Session is starting on January 20th! Learn more by clicking the button below!"
@@ -46,10 +46,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
-
-
-
-
   - image_path: /assets/images/wcc1.png
     alt: "Chess Tournament"
     title: "Impressive Results at Windsor Chess Challenge"

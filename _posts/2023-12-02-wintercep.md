@@ -12,7 +12,7 @@ The Windsor Chess Enrichment Program Winter Session is starting soon!
 
 <h2>What is it?</h2>
 
-The Windsor Chess Enrichment Program is a program specially-designed to build on a students' chess skills. Students learn new techniques in lessons and are able to practice them in training games, while being submerged in an environment filled with like-minded individuals! It is a great place to learn and meet new friends along the way!
+The Windsor Chess Enrichment Program is a program specially-designed to build on a student's chess skills. Students learn new techniques in lessons and are able to practice them in training games, while being submerged in an environment filled with like-minded individuals! It is a great place to learn and meet new friends along the way!
 
 <h2>Where is it?</h2>
 
@@ -33,9 +33,9 @@ The program runs from 2:00 - 3:30 PM and 4:00 - 5:30 PM Eastern Time on Saturday
 
 <h3>4 PM Session:</h3>
 
-<p>4:00 - 4:45 | Beginner and Intermediate classes start, Advanced 1 and Advanced 2 play training games</p>
+<p>4:00 - 4:45 | Students play training games </p>
 
-<p>4:45 - 5:30 | Advanced 1 and Advanced 2 classes start, Beginner and Intermediate play training games</p>
+<p>4:45 - 5:30 | All classes start </p>
 
 <h2>What will it cost me?</h2>
 

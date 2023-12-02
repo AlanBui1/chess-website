@@ -19,7 +19,7 @@ The Massey Winter Chess Tournament was held on Friday, December 1 at Vincent Mas
 | 2-6 | Sahasra Gollapalli | 4.0 |
 | 2-6 | William Leblanc-Brown | 4.0 |
 
-## Grades 5-8:
+## Grades 6-8:
 
 | Placement      | Name | Score /5     |
 | :---        |    :----:   |          ---: |

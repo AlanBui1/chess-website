@@ -11,7 +11,7 @@ header:
     - label: Meet the Teachers
       url: "/about#adam-gaisinsky"
     - label: Sign Up
-      url: "https://forms.gle/fQir8Saqjecnewrb6"
+      url: "https://forms.gle/wyrimwzZF1HASV9u5"
   
 excerpt: 
 

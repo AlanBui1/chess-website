@@ -21,6 +21,14 @@ excerpt:
 
 
 feature_row:  
+  - image_path: /assets/images/wcc1.png
+    alt: "Chess Tournament"
+    title: "Outstanding Results at the Windsor Chess Challenge"
+    excerpt: "We are thrilled to have our students win at the Windsor Chess Challenge! See our medallists by clicking the link below!"
+    url: "/windsorcc/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+
   - image_path: /assets/images/WindsorCEPWinter2024.png
     alt: "Windsor Chess Enrichment Program Winter Session"
     title: "Windsor Chess Enrichment Program Winter Session"
@@ -46,13 +54,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
   
-  - image_path: /assets/images/wcc1.png
-    alt: "Chess Tournament"
-    title: "Impressive Results at Windsor Chess Challenge"
-    excerpt: "Several students won at the Windsor Chess Challenge! See our medallists by clicking the link below!"
-    url: "/windsorcc/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
+
 
   - image_path: /assets/images/AllGames.png
     alt: "All games image"

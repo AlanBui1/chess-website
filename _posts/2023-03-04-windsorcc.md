@@ -1,7 +1,7 @@
 ---
 title: "Windsor Chess Challenge"
 last_modified_at: 2023-03-04
-permalink: /windsorcc/
+permalink: /windsorcc23/
 ---
 
 <img src="/assets/images/wcc2.png" alt="Chess Challenge Photo" height = "100%" width = "100%"> 

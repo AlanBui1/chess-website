@@ -24,8 +24,8 @@ feature_row:
   - image_path: /assets/images/KCIChessTournament5.png
     alt: "KCI Chess Tournament"
     title: "KCI Chess Tournament #5"
-    excerpt: "KCI Chess Tournament #5 is soon; register now!"
-    url: "/kcichess/"
+    excerpt: "KCI Chess Tournament #5 is over. See results now!"
+    url: "/kcichess5/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/wcc1.png

@@ -1,14 +1,14 @@
 ---
-title: "Windsor Chess Enrichment Program Winter Session"
+title: "Windsor Chess Enrichment Program Spring 2024 Session"
 # last_modified_at: 2023-09-04
 tags:
   - Program
-permalink: /wintercep/
+permalink: /springcep/
 ---
 
 The Windsor Chess Enrichment Program Winter Session is starting soon! 
 
-<img src="/assets/images/WindsorCEPWinter2024.png" alt="Program Flyer" height = "60%" width = "60%"> 
+<img src="/assets/images/WindsorCEPSpring2024.png" alt="Program Flyer" height = "60%" width = "60%"> 
 
 <h2>What is it?</h2>
 
@@ -21,7 +21,7 @@ The program runs at First Lutheran Christian Academy: 3850 Locke St, Windsor, ON
 
 <h2>When is it?</h2>
 
-The program runs from 2:00 - 3:30 PM and 4:00 - 5:30 PM Eastern Time on Saturdays. The program starts on January 20th and goes up to and including April 6th.
+The program runs from 2:00 - 3:30 PM and 4:00 - 5:30 PM Eastern Time on Saturdays. The program starts on April 20th and goes up to and including June 8th.
 
 <h2>Schedule</h2>
 
@@ -39,13 +39,13 @@ The program runs from 2:00 - 3:30 PM and 4:00 - 5:30 PM Eastern Time on Saturday
 
 <h2>What will it cost me?</h2>
 
-The program fee is $160 for the entire session. If you would like to try the program out, we offer one free trial day to new students!
+The program fee is $130 for the entire session. If you would like to try the program out, we offer one free trial day to new students!
 
 Additionally, we offer a needs-based bursary to support low-income families.
 
 <h2>How do I register?</h2>
 
-You can register by completing the form at this [link](https://forms.gle/wyrimwzZF1HASV9u5)
+You can register by completing the form at this [link](https://forms.gle/WuuD4RJZUgrKjSdQA)
 
 <h2>Who is teaching?</h2>
 

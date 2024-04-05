@@ -11,7 +11,7 @@ header:
     - label: Meet the Teachers
       url: "/about#adam-gaisinsky"
     - label: Sign Up
-      url: "https://forms.gle/wyrimwzZF1HASV9u5"
+      url: "https://forms.gle/WuuD4RJZUgrKjSdQA"
   
 excerpt: 
 
@@ -21,6 +21,15 @@ excerpt:
 
 
 feature_row:  
+
+  - image_path: /assets/images/WindsorCEPSpring2024.png
+    alt: "Windsor Chess Enrichment Program Spring Session"
+    title: "Windsor Chess Enrichment Program Spring Session"
+    excerpt: "The Windsor Chess Enrichment Program Spring Session is starting on April 20th! Learn more by clicking the button below!"
+    url: "/springcep/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
   - image_path: /assets/images/KCIChessTournament5.png
     alt: "KCI Chess Tournament"
     title: "KCI Chess Tournament #5"
@@ -36,13 +45,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 
-  - image_path: /assets/images/WindsorCEPWinter2024.png
-    alt: "Windsor Chess Enrichment Program Winter Session"
-    title: "Windsor Chess Enrichment Program Winter Session"
-    excerpt: "The Windsor Chess Enrichment Program Winter Session is starting on January 20th! Learn more by clicking the button below!"
-    url: "/wintercep/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  
 
   - image_path: /assets/images/WinterChessTournament.png
     alt: "Massey Winter Chess Tournament"

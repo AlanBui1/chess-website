@@ -6,7 +6,7 @@ tags:
 permalink: /springcep/
 ---
 
-The Windsor Chess Enrichment Program Winter Session is starting soon! 
+The Windsor Chess Enrichment Program Spring Session is starting soon! 
 
 <img src="/assets/images/WindsorCEPSpring2024.png" alt="Program Flyer" height = "60%" width = "60%"> 
 

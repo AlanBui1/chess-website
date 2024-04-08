@@ -1,12 +1,49 @@
 ---
 title: "Windsor Chess Challenge"
-last_modified_at: 2024-03-04
+last_modified_at: 2024-04-07
 permalink: /windsorcc/
 ---
 
-<img src="/assets/images/wcc1.png" alt="Chess Challenge Photo" height = "100%" width = "100%"> 
+The year's students at the Windsor Chess Enrichment Program participated at the annual Windsor Chess Challenge! We are proud of everyone who participated in the Windsor Chess Challenge and the Playoffs!
 
-The year's students at the Windsor Chess Enrichment Program participated at the annual Windsor Chess Challenge last week! We are proud of everyone who participated!
+<br><br>
+
+# Playoffs
+
+## Large Trophy Winners (3.0/3.0)
+
+| Name      | Grade    |
+| :---      |    :----: |
+| Nguyen, Ethan | 2 |
+| St. Louis, Andrew | 4 |
+| Wei, Tim | 5 |
+| Liem, Jasper | 5 |
+
+## Medium Trophy Winners (2.5/3.0)
+
+| Name      | Grade    |
+| :---      |    :----: |
+| Johnson, Joshua | 6 |
+| Liem, Caleb | 7 |
+
+
+## Small Trophy Winners (2.0/3.0)
+
+| Name      | Grade    |
+| :---      |    :----: |
+| Leblanc-Brown, William | 3 |
+| Aspinall, Elliott | 3 |
+| Habibov, Alex | 5 |
+| KarunaKaran, Varun | 5 |
+| Swancott, Seth	 | 6 |
+| Nguyen, Aiden | 7 |
+| Malpica, Angelo | 7 |
+| Langton, Joel | 8 |
+
+
+<br><br>
+
+# Windsor Chess Challenge
 
 ## Gold Medallists
 
@@ -45,5 +82,3 @@ The year's students at the Windsor Chess Enrichment Program participated at the 
 | Nguyen, Aiden | 7 |
 | DiSalvo, Alessio | 7 |
 | Wiper, Keegan | 7 |
-
-Good luck to everyone at the playoffs!

@@ -30,6 +30,17 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
+  
+
+  - image_path: /assets/images/wcc2024.jpg
+    alt: "Chess Tournament"
+    title: "Outstanding Results at the Windsor Chess Challenge"
+    excerpt: "We are thrilled to have our students win at the Windsor Chess Challenge and Playoffs! See our winners by clicking the link below!"
+    url: "/windsorcc/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"  
+
+
   - image_path: /assets/images/KCIChessTournament5.png
     alt: "KCI Chess Tournament"
     title: "KCI Chess Tournament #5"
@@ -37,14 +48,6 @@ feature_row:
     url: "/kcichess5/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/wcc1.png
-    alt: "Chess Tournament"
-    title: "Outstanding Results at the Windsor Chess Challenge"
-    excerpt: "We are thrilled to have our students win at the Windsor Chess Challenge! See our medallists by clicking the link below!"
-    url: "/windsorcc/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
-
   
 
   - image_path: /assets/images/WinterChessTournament.png

@@ -22,6 +22,14 @@ excerpt:
 
 feature_row:  
 
+  - image_path: /assets/images/SpringChessTournament.png
+    alt: "Massey Spring Chess Tournament"
+    title: "Massey Spring Chess Tournament"
+    excerpt: "Last tournament of the school year at Massey is on May 10th. Register now!"
+    url: "/masseyspring/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
   - image_path: /assets/images/KCIChessTournament6.png
     alt: "KCI Chess Tournament"
     title: "KCI Chess Tournament #6"
@@ -38,8 +46,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  
-
   - image_path: /assets/images/wcc2024.jpg
     alt: "Chess Tournament"
     title: "Outstanding Results at the Windsor Chess Challenge"
@@ -48,19 +54,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 
-
-  
-  
-
-  - image_path: /assets/images/WinterChessTournament.png
-    alt: "Massey Winter Chess Tournament"
-    title: "Massey Winter Chess Tournament"
-    excerpt: "Massey Winter Chess Tournament is over! See results now!"
-    url: "/masseywinter/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-
-    
 
   - image_path: /assets/images/AllGames.png
     alt: "All games image"

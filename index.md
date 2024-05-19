@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/SpringChessTournament.png
     alt: "Massey Spring Chess Tournament"
     title: "Massey Spring Chess Tournament"
-    excerpt: "Last tournament of the school year at Massey is on May 10th. Register now!"
+    excerpt: "Massey Spring Chess Tournament is over. See results now!"
     url: "/masseyspring/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

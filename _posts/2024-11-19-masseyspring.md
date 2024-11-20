@@ -10,7 +10,7 @@ In collaboration with the Massey Chess Club, we are hosting a chess tournament o
 
 <img src="/assets/images/WinterMassey.png" alt="Tournament Flyer" height = "60%" width = "60%">
 
-<h2>Location:</h2> Vincent Massey Secondary School (in the cafeteria), 1800 Liberty St. Windsor, ON
+<h2>Location:</h2> Vincent Massey Secondary School (in the library), 1800 Liberty St. Windsor, ON
 
 Directions: <a href = "https://goo.gl/maps/P9n8JcnS7chTAChZ6">Google Maps </a>
 

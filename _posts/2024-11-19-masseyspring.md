@@ -6,7 +6,7 @@ tags:
   - Tournament
 ---
 
-In collaboration with the Massey Chess Club, we are hosting a chess tournament on Friday, May 10th from 4:00-7:30 PM! 
+In collaboration with the Massey Chess Club, we are hosting a chess tournament on Friday, November 29th from 4:00-7:30 PM! 
 
 <img src="/assets/images/WinterMassey.png" alt="Tournament Flyer" height = "60%" width = "60%">
 

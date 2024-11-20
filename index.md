@@ -22,29 +22,29 @@ excerpt:
 
 feature_row:  
 
-  - image_path: /assets/images/SpringChessTournament.png
-    alt: "Massey Spring Chess Tournament"
-    title: "Massey Spring Chess Tournament"
-    excerpt: "Massey Spring Chess Tournament is over. See results now!"
-    url: "/masseyspring/"
+  - image_path: /assets/images/WinterMassey.png
+    alt: "Massey Winter Chess Tournament"
+    title: "Massey Winter Chess Tournament"
+    excerpt: "Massey Winter Chess Tournament is coming up soon. Sign up now!"
+    url: "/wintermassey/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
-  - image_path: /assets/images/KCIChessTournament6.png
-    alt: "KCI Chess Tournament"
-    title: "KCI Chess Tournament #6"
-    excerpt: "KCI Chess Tournament #6 is over. See results now!"
-    url: "/kcichess6/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  # - image_path: /assets/images/KCIChessTournament6.png
+  #   alt: "KCI Chess Tournament"
+  #   title: "KCI Chess Tournament #6"
+  #   excerpt: "KCI Chess Tournament #6 is over. See results now!"
+  #   url: "/kcichess6/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
 
-  - image_path: /assets/images/WindsorCEPSpring2024.png
-    alt: "Windsor Chess Enrichment Program Spring Session"
-    title: "Windsor Chess Enrichment Program Spring Session"
-    excerpt: "The Windsor Chess Enrichment Program Spring Session is starting on April 20th! Learn more by clicking the button below!"
-    url: "/springcep/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+  # - image_path: /assets/images/WindsorCEPSpring2024.png
+  #   alt: "Windsor Chess Enrichment Program Spring Session"
+  #   title: "Windsor Chess Enrichment Program Spring Session"
+  #   excerpt: "The Windsor Chess Enrichment Program Spring Session is starting on April 20th! Learn more by clicking the button below!"
+  #   url: "/springcep/"
+  #   btn_class: "btn--primary"
+  #   btn_label: "Learn more"
 
   - image_path: /assets/images/wcc2024.jpg
     alt: "Chess Tournament"

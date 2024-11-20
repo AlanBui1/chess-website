@@ -34,7 +34,7 @@ Directions: <a href = "https://goo.gl/maps/P9n8JcnS7chTAChZ6">Google Maps </a>
 
 <!-- <h2>Time Control:</h2> Unrated, 10 min + 5-sec increment -->
 
-<h2>Entry Fee:</h2> $25 paid during the registration period on May 10th.
+<h2>Entry Fee:</h2> $25 paid during the registration period on November 29th.
 <!-- <h3>The entrance fee is $20 for Latitude Chess and Windsor Chess Enrichment Program students.</h3> -->
 
 <h2>Food:</h2> 2 slices of pizza included in the entry fee. Additional items may be available for purchase. 

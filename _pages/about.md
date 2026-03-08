@@ -42,6 +42,25 @@ FIDE Candidate Master in 2022 and has been teaching chess for over 5 years. Eric
 and hopes to excite and improve the next generation of Windsor kids about chess! 
 
 <br>
+
+## Divjot Locham
+
+<br>
+##<img style="float: right; padding-left: 5%" src="https://alanbui.github.io/chess-website/assests/images/divjot.png"  width="30%" height="30%" >
+
+Divjot
+<br>
+
+#Daniel Yuan
+
+<br>
+
+<br>
+
+#Gordon Luo
+<br>
+Gordon Luo has been teaching the beginner class for 2 years, teaching fundamentals and creating an encouraging environment for students picking up chess for the first time. He has competed at the Ontario High School Chess Championship twice, winning third place team titles both times. With six years of tutoring experience, he has worked with students across a wide range of learning needs and knows how to get young students excited about learning.
+<br>
 <br>
 <br>
 <br>

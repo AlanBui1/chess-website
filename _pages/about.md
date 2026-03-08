@@ -13,6 +13,7 @@ Windsor is well renowned in the chess world for producing many talented and high
 <a href = "https://forms.gle/WuuD4RJZUgrKjSdQA" class="btn btn--light-outline btn--large">Sign Up</a>
 
 <br>
+
 ## Adam Gaisinsky
 <br>
 <img style="float: left; padding-right: 5%" src="https://alanbui1.github.io/chess-website/assets/images/adam2.png"  width="30%" height="30%" >
@@ -46,18 +47,23 @@ and hopes to excite and improve the next generation of Windsor kids about chess!
 ## Divjot Locham
 
 <br>
-##<img style="float: right; padding-left: 5%" src="https://alanbui.github.io/chess-website/assests/images/divjot.png"  width="30%" height="30%" >
+<img style="float: right; padding-left: 5%" src="https://alanbui.github.io/chess-website/assests/images/divjot.png"  width="30%" height="30%" >
 
-Divjot
+Divjot Loc
 <br>
 
-#Daniel Yuan
+## Daniel Yuan
 
 <br>
 
+Daniel Yuan is a master level chess player with over a decade competitive experience. Daniel’s achievements include tying for second place at the 2019 Motor City Open, back-to-back podium finishes at the Ontario Youth Chess Championship (2017 and 2018). He also helped his school secure the Ontario High School Chess Championship team title. He has also achieved a Chess.com rating of 2450.
+
+Beyond competing, Daniel contributes to the community as an Chess Federation of Canada (CFC) organizer and arbiter. He has helped run tournaments while supporting opportunities for developing players. His combined experience as a competitor, team player, and tournament official gives him a well-rounded perspective on the importance of structured environments for players to grow and succeed in chess. 
+
 <br>
 
-#Gordon Luo
+## Gordon Luo
+
 <br>
 Gordon Luo has been teaching the beginner class for 2 years, teaching fundamentals and creating an encouraging environment for students picking up chess for the first time. He has competed at the Ontario High School Chess Championship twice, winning third place team titles both times. With six years of tutoring experience, he has worked with students across a wide range of learning needs and knows how to get young students excited about learning.
 <br>

@@ -47,7 +47,7 @@ and hopes to excite and improve the next generation of Windsor kids about chess!
 ## Divjot Locham
 
 <br>
-<img style="float: right; padding-left: 5%" src="https://alanbui.github.io/chess-website/assets/images/divjot.jpeg"  width="30%" height="30%" >
+<img style="float: right; padding-left: 5%" src="https://alanbui.github.io/chess-website/assets/images/divjot.JPEG"  width="30%" height="30%" >
 
 Divjot Locham has been involved in competitive chess for over a decade and has represented Canada on the international stage at both the North American Youth Chess Championship and the Pan-American Youth Chess Championship. His notable achievements include placing third at the Canadian Youth Chess Championship and finishing second at the Canadian Open.
 
